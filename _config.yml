@@ -47,7 +47,7 @@ navbar-text-col: "#FFFFFF"
 navbar-children-col: "#008080"
 page-col: "#FFFFFF"
 link-col: "#404040"
-hover-col: "#0085A1"
+hover-col: "#FFFFFF"
 footer-col: "#008080"
 footer-text-col: "#FFFFFF"
 footer-link-col: "#008080"
@@ -124,8 +124,8 @@ url-pretty: ""  # eg. "deanattali.com/beautiful-jekyll"
 # --- Comments --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-# disqus: "darmajalaya.disqus.com"
-# comments: true
+  disqus: "darmajalaya.disqus.com"
+  comments: true
 
 # To use Facebook Comments, fill in a Facebook App ID
 # fb_comment_id: ""
