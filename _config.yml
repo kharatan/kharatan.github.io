@@ -127,7 +127,7 @@ url-pretty: ""  # eg. "deanattali.com/beautiful-jekyll"
 # disqus: "darmajalaya.disqus.com"
 
 # To use Facebook Comments, fill in a Facebook App ID
-# fb_comment_id: ""
+# fb_comment_id: "true"
 
 # --- Misc --- #
 
