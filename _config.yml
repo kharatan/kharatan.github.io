@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://darmajalaya.github.io"
+url: "http://kharatan.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: darmajalaya
+title: kharatan
 
 # Short description of your site
 description: A virtual proof that name is awesome!
@@ -64,7 +64,7 @@ footer-link-col: "#708090"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: darmajalaya
+  name: kharatan
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -124,7 +124,7 @@ url-pretty: ""  # eg. "deanattali.com/beautiful-jekyll"
 # --- Comments --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-# disqus: "darmajalaya.disqus.com"
+# disqus: ""
 
 # To use Facebook Comments, fill in a Facebook App ID
 # fb_comment_id: "true"
@@ -145,7 +145,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "Asia/Jakarta"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
